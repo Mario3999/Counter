@@ -74,16 +74,7 @@
 
 <img src="assets/img/Readme-Home.png" alt="" width="" height=""></img>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Il Counter è stato sviluppato implementando i 3 pulsanti ("+", "-", "Reset"), così come la visualizzazione del valore, in JavaScript. L'app è "Responsive" e quindi accessibile in versione mobile, tablet e desktop. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,22 +82,11 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-* [HTML]
-* [CSS]
-* [JavaScript]
+* HTML
+* CSS
+* JavaScript
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -123,27 +103,10 @@ Il Counter dispone di 3 pulsanti:
 
 * "Reset"
 <img src="assets/img/Readme-Reset.png" alt="" width="" height=""></img>
-<br/>
+
 Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati ("+", "-", "Reset") per modificare il valore del counter.
 
 <img src="assets/img/Readme-Value.png" alt="" width="" height=""></img>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
