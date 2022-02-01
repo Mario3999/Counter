@@ -126,8 +126,6 @@ To get a local copy up and running follow these simple example steps.
 
 Il Counter dispone di 3 pulsanti: "+" (incrementare), "-" (decrementare) e "Reset".
 
-<img src="assets/img/Readme-Home.png" alt="" width="" height=""></img>
-
 <img src="assets/img/Readme-Plus.png" alt="" width="" height=""></img>
 
 <img src="assets/img/Readme-Minus.png" alt="" width="" height=""></img>
