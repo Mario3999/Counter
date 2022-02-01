@@ -169,7 +169,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [Mario Malitesta](Mario Malitesta) - mario.malitesta@gmail.com
 
 Project Link: [https://github.com/Mario3999/Counter](https://github.com/Mario3999/Counter)
 
