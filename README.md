@@ -132,6 +132,8 @@ Il Counter dispone di 3 pulsanti: "+" (incrementare), "-" (decrementare) e "Rese
 
 <img src="assets/img/Readme-Reset.png" alt="" width="" height=""></img>
 
+<img src="assets/img/Readme-Value.png" alt="" width="" height=""></img>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
