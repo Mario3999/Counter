@@ -73,7 +73,7 @@ Inoltre è possibile digitare la cifra desiderata all'interno del riquadro princ
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Mario Malitesta - mario.malitesta@gmail.com
+Mario Malitesta - mario.malitesta@gmail.com
 
 Project Link: [https://github.com/Mario3999/Counter](https://github.com/Mario3999/Counter)
 
