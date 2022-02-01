@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/img/pitch-counter.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -169,7 +169,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Mario Malitesta](Mario Malitesta) - mario.malitesta@gmail.com
+Your Name - Mario Malitesta - mario.malitesta@gmail.com
 
 Project Link: [https://github.com/Mario3999/Counter](https://github.com/Mario3999/Counter)
 
