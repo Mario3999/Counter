@@ -18,8 +18,6 @@
     <img src="assets/img/pitch-counter.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Counter</h3>
-
 </div>
 
 
