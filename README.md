@@ -31,11 +31,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/img/pitch-counter.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Mario3999/Counter">
+    <img src="assets/img/pitch-counter.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Counter</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
