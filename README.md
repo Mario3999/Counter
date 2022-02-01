@@ -124,14 +124,19 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Il Counter dispone di 3 pulsanti: "+" (incrementare), "-" (decrementare) e "Reset".
+Il Counter dispone di 3 pulsanti:
 
+
+* "+" (incrementare)
 <img src="assets/img/Readme-Plus.png" alt="" width="" height=""></img>
 
+* "-" (decrementare)
 <img src="assets/img/Readme-Minus.png" alt="" width="" height=""></img>
 
+* "Reset"
 <img src="assets/img/Readme-Reset.png" alt="" width="" height=""></img>
-
+<br/>
+Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati incrementare/decrementare/resettare il valore del counter.
 <img src="assets/img/Readme-Value.png" alt="" width="" height=""></img>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
