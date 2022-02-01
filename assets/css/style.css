@@ -14,7 +14,6 @@
     align-items: center;
     width: 100vw;
     height: 100vh;
-    /* background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(136,104,218,1) 35%, rgba(0,255,124,1) 100%); */
     background-image: url(../img/bernd-dittrich-U1xx7caDZgs-unsplash.jpg);
     background-position: center;
     background-size: cover;
@@ -35,7 +34,6 @@ h1{
     row-gap: 10px;
     width: 90%;
     height: 50%;
-    /* background-color: rgba(255, 255, 255, .15); */
     background-color: rgba(255, 255, 255, .1);
     backdrop-filter: blur(5px);
     box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
@@ -51,13 +49,10 @@ h1{
 
 .counter-container{
     display: flex;
-    /* flex-direction: column; */
     justify-content: center;
     align-items: center;
-    /* gap: 10px; */
     width: 90%;
     height: 40%;
-    /* background-color: yellowgreen; */
     border-radius: 30px;
 }
 
@@ -84,23 +79,6 @@ h1{
     top: 0px;
     background-color: white;
     user-select: none;
-    /* border: none; */
-    
-}
-
-
-p{
-    width: 40%;
-    height: 60%;
-    font-family: 'Comforter', cursive;
-    font-size: 3vw;
-    text-align: center;
-    /* vertical-align: center; */
-    background-color: whitesmoke;
-    border-radius: 10px;
-    padding-top: 10px;
-    /* text-decoration: underline; */
-    
 }
 
 input[type=number]{
@@ -109,12 +87,9 @@ input[type=number]{
     font-family: 'Comforter', cursive;
     font-size: 10vw;
     text-align: center;
-    /* vertical-align: center; */
     background-color: whitesmoke;
     border-radius: 10px;
     padding-top: 10px;
-    /* text-decoration: underline; */
-    /* appearance: textfield; */
 }
 
 input[type=number]::-webkit-inner-spin-button, 
@@ -125,29 +100,21 @@ input[type=number]::-webkit-outer-spin-button {
 #minus{
     background-color: rgb(0, 119, 255);
     font-size: 15vw;
-    /* font-family: 'Comforter', cursive; */
 }
 
 #plus{
     background-color: rgb(0, 128, 0);
     font-size: 14vw;
-    /* font-family: 'Comforter', cursive; */
 }
 
 #reset{
-    /* padding-top: 10px; */
     height: 30%;
     width: 35%;
     background-color: red;
-    /* margin-top: -15px; */
     color: rgba(47, 79, 79,0.7);
-    /* font-family: 'Comforter', cursive; */
     font-family: 'Permanent Marker', cursive;
-    /* letter-spacing: 2px; */
-    /* text-shadow: 4px 4px 4px white; */
     font-size: 6vw;
 }
-
 
 #minus:hover, #plus:hover, #reset:hover{
     cursor: pointer;
@@ -168,7 +135,6 @@ input[type=number]::-webkit-outer-spin-button {
 
     .not-sup-res img{
         width: 50%;
-        /* height: 50%; */
         margin-top: 20%;
         margin-bottom: 20%;
     }
@@ -205,14 +171,12 @@ input[type=number]::-webkit-outer-spin-button {
         display: none;
     }
 
-
     .sezione{
         display: flex;
         justify-content: center;
         align-items: center;
         width: 100vw;
         height: 100vh;
-        /* background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(136,104,218,1) 35%, rgba(0,255,124,1) 100%); */
         background-image: url(../img/bernd-dittrich-U1xx7caDZgs-unsplash.jpg);
         background-position: center;
         background-size: cover;
@@ -233,7 +197,6 @@ input[type=number]::-webkit-outer-spin-button {
         row-gap: 10px;
         width: 90%;
         height: 50%;
-        /* background-color: rgba(255, 255, 255, .15); */
         background-color: rgba(255, 255, 255, .1);
         backdrop-filter: blur(5px);
         box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
@@ -249,13 +212,10 @@ input[type=number]::-webkit-outer-spin-button {
     
     .counter-container{
         display: flex;
-        /* flex-direction: column; */
         justify-content: center;
         align-items: center;
-        /* gap: 10px; */
         width: 90%;
         height: 40%;
-        /* background-color: yellowgreen; */
         border-radius: 30px;
     }
     
@@ -281,24 +241,7 @@ input[type=number]::-webkit-outer-spin-button {
         filter: drop-shadow(0px 5px 5px black);
         top: 0px;
         background-color: white;
-        user-select: none;
-        /* border: none; */
-        
-    }
-    
-    
-    p{
-        width: 40%;
-        height: 60%;
-        font-family: 'Comforter', cursive;
-        font-size: 3vw;
-        text-align: center;
-        /* vertical-align: center; */
-        background-color: whitesmoke;
-        border-radius: 10px;
-        padding-top: 10px;
-        /* text-decoration: underline; */
-        
+        user-select: none; 
     }
     
     input[type=number]{
@@ -307,12 +250,9 @@ input[type=number]::-webkit-outer-spin-button {
         font-family: 'Comforter', cursive;
         font-size: 6vw;
         text-align: center;
-        /* vertical-align: center; */
         background-color: whitesmoke;
         border-radius: 10px;
         padding-top: 10px;
-        /* text-decoration: underline; */
-        /* appearance: textfield; */
     }
     
     input[type=number]::-webkit-inner-spin-button, 
@@ -323,26 +263,19 @@ input[type=number]::-webkit-outer-spin-button {
     #minus{
         background-color: rgb(0, 119, 255);
         font-size: 7vw;
-        /* font-family: 'Comforter', cursive; */
     }
     
     #plus{
         background-color: rgb(0, 128, 0);
         font-size: 6vw;
-        /* font-family: 'Comforter', cursive; */
     }
     
     #reset{
-        /* padding-top: 10px; */
         height: 30%;
         width: 35%;
         background-color: red;
-        /* margin-top: -15px; */
         color: rgba(47, 79, 79,0.7);
-        /* font-family: 'Comforter', cursive; */
         font-family: 'Permanent Marker', cursive;
-        /* letter-spacing: 2px; */
-        /* text-shadow: 4px 4px 4px white; */
         font-size: 3vw;
     }
     
@@ -367,7 +300,6 @@ input[type=number]::-webkit-outer-spin-button {
         align-items: center;
         width: 100vw;
         height: 100vh;
-        /* background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(136,104,218,1) 35%, rgba(0,255,124,1) 100%); */
         background-image: url(../img/bernd-dittrich-U1xx7caDZgs-unsplash.jpg);
         background-position: center;
         background-size: cover;
@@ -388,7 +320,6 @@ input[type=number]::-webkit-outer-spin-button {
         row-gap: 10px;
         width: 30%;
         height: 50%;
-        /* background-color: rgba(255, 255, 255, .15); */
         background-color: rgba(255, 255, 255, .1);
         backdrop-filter: blur(5px);
         box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
@@ -404,13 +335,10 @@ input[type=number]::-webkit-outer-spin-button {
     
     .counter-container{
         display: flex;
-        /* flex-direction: column; */
         justify-content: center;
         align-items: center;
-        /* gap: 10px; */
         width: 90%;
         height: 40%;
-        /* background-color: yellowgreen; */
         border-radius: 30px;
     }
     
@@ -437,23 +365,6 @@ input[type=number]::-webkit-outer-spin-button {
         top: 0px;
         background-color: white;
         user-select: none;
-        /* border: none; */
-        
-    }
-    
-    
-    p{
-        width: 40%;
-        height: 60%;
-        font-family: 'Comforter', cursive;
-        font-size: 3vw;
-        text-align: center;
-        /* vertical-align: center; */
-        background-color: whitesmoke;
-        border-radius: 10px;
-        padding-top: 10px;
-        /* text-decoration: underline; */
-        
     }
     
     input[type=number]{
@@ -462,12 +373,9 @@ input[type=number]::-webkit-outer-spin-button {
         font-family: 'Comforter', cursive;
         font-size: 3vw;
         text-align: center;
-        /* vertical-align: center; */
         background-color: whitesmoke;
         border-radius: 10px;
         padding-top: 10px;
-        /* text-decoration: underline; */
-        /* appearance: textfield; */
     }
     
     input[type=number]::-webkit-inner-spin-button, 
@@ -478,26 +386,19 @@ input[type=number]::-webkit-outer-spin-button {
     #minus{
         background-color: rgb(0, 119, 255);
         font-size: 4vw;
-        /* font-family: 'Comforter', cursive; */
     }
     
     #plus{
         background-color: rgb(0, 128, 0);
         font-size: 3vw;
-        /* font-family: 'Comforter', cursive; */
     }
     
     #reset{
-        /* padding-top: 10px; */
-        height: 30%;
         width: 35%;
+        height: 30%;
         background-color: red;
-        /* margin-top: -15px; */
         color: rgba(47, 79, 79,0.7);
-        /* font-family: 'Comforter', cursive; */
         font-family: 'Permanent Marker', cursive;
-        /* letter-spacing: 2px; */
-        /* text-shadow: 4px 4px 4px white; */
         font-size: 1.2vw;
     }
     
@@ -505,7 +406,6 @@ input[type=number]::-webkit-outer-spin-button {
     #minus:hover, #plus:hover, #reset:hover{
         cursor: pointer;
     }
-    
     
 }
     
