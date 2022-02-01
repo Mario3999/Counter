@@ -1,0 +1,512 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.not-sup-res{
+    display: none;
+}
+
+.sezione{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    /* background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(136,104,218,1) 35%, rgba(0,255,124,1) 100%); */
+    background-image: url(../img/bernd-dittrich-U1xx7caDZgs-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Comforter', cursive;
+    font-size: 22vw;
+    color: white;
+    text-shadow: 5px 5px 4px black;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    row-gap: 10px;
+    width: 90%;
+    height: 50%;
+    /* background-color: rgba(255, 255, 255, .15); */
+    background-color: rgba(255, 255, 255, .1);
+    backdrop-filter: blur(5px);
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
+    border-radius: 30px;
+}
+
+#js-icon{
+    width: 21%;
+    height: 15%;
+    filter: drop-shadow(0px 0px 10px black);
+    margin-bottom: 18px;
+}
+
+.counter-container{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    /* gap: 10px; */
+    width: 90%;
+    height: 40%;
+    /* background-color: yellowgreen; */
+    border-radius: 30px;
+}
+
+.buttons-value-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 90%;
+    gap: 10px;
+}
+
+.counterbutton{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 50%;
+    border-radius: 10px;
+    filter: drop-shadow(0px 5px 5px black);
+    top: 0px;
+    background-color: white;
+    user-select: none;
+    /* border: none; */
+    
+}
+
+
+p{
+    width: 40%;
+    height: 60%;
+    font-family: 'Comforter', cursive;
+    font-size: 3vw;
+    text-align: center;
+    /* vertical-align: center; */
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding-top: 10px;
+    /* text-decoration: underline; */
+    
+}
+
+input[type=number]{
+    width: 40%;
+    height: 60%;
+    font-family: 'Comforter', cursive;
+    font-size: 10vw;
+    text-align: center;
+    /* vertical-align: center; */
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding-top: 10px;
+    /* text-decoration: underline; */
+    /* appearance: textfield; */
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+}
+
+#minus{
+    background-color: rgb(0, 119, 255);
+    font-size: 15vw;
+    /* font-family: 'Comforter', cursive; */
+}
+
+#plus{
+    background-color: rgb(0, 128, 0);
+    font-size: 14vw;
+    /* font-family: 'Comforter', cursive; */
+}
+
+#reset{
+    /* padding-top: 10px; */
+    height: 30%;
+    width: 35%;
+    background-color: red;
+    /* margin-top: -15px; */
+    color: rgba(47, 79, 79,0.7);
+    /* font-family: 'Comforter', cursive; */
+    font-family: 'Permanent Marker', cursive;
+    /* letter-spacing: 2px; */
+    /* text-shadow: 4px 4px 4px white; */
+    font-size: 6vw;
+}
+
+
+#minus:hover, #plus:hover, #reset:hover{
+    cursor: pointer;
+}
+
+/* None Styles */
+@media only screen and (max-width: 319px){
+
+    .not-sup-res{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        background-color: yellow;
+        height: 100vh;
+        border: 10px solid black;
+    }
+
+    .not-sup-res img{
+        width: 50%;
+        /* height: 50%; */
+        margin-top: 20%;
+        margin-bottom: 20%;
+    }
+
+    .not-sup-res h1{
+        width: 90%;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 7vw;
+        word-break: break-all;
+        text-align: justify;
+        color: black;
+        background-color: white;
+        text-shadow: 3px 3px 3px white;
+        border: 3px solid black;
+        padding: 15px;
+    }
+
+    .sezione{
+        display: none;
+    }
+
+}
+
+
+/* Mobile Styles */
+@media only screen and (min-width:320px) and (max-width: 400px){
+
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px){
+
+    .not-sup-res{
+        display: none;
+    }
+
+
+    .sezione{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        /* background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(136,104,218,1) 35%, rgba(0,255,124,1) 100%); */
+        background-image: url(../img/bernd-dittrich-U1xx7caDZgs-unsplash.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    h1{
+        font-family: 'Comforter', cursive;
+        font-size: 10vw;
+        color: white;
+        text-shadow: 5px 5px 4px black;
+    }
+    
+    .box{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        row-gap: 10px;
+        width: 90%;
+        height: 50%;
+        /* background-color: rgba(255, 255, 255, .15); */
+        background-color: rgba(255, 255, 255, .1);
+        backdrop-filter: blur(5px);
+        box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
+        border-radius: 30px;
+    }
+    
+    #js-icon{
+        width: 21%;
+        height: 15%;
+        filter: drop-shadow(0px 0px 10px black);
+        margin-bottom: 10px;
+    }
+    
+    .counter-container{
+        display: flex;
+        /* flex-direction: column; */
+        justify-content: center;
+        align-items: center;
+        /* gap: 10px; */
+        width: 90%;
+        height: 40%;
+        /* background-color: yellowgreen; */
+        border-radius: 30px;
+    }
+    
+    .buttons-value-container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+        height: 90%;
+        gap: 10px;
+    }
+    
+    .counterbutton{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 25%;
+        height: 50%;
+        border-radius: 10px;
+        filter: drop-shadow(0px 5px 5px black);
+        top: 0px;
+        background-color: white;
+        user-select: none;
+        /* border: none; */
+        
+    }
+    
+    
+    p{
+        width: 40%;
+        height: 60%;
+        font-family: 'Comforter', cursive;
+        font-size: 3vw;
+        text-align: center;
+        /* vertical-align: center; */
+        background-color: whitesmoke;
+        border-radius: 10px;
+        padding-top: 10px;
+        /* text-decoration: underline; */
+        
+    }
+    
+    input[type=number]{
+        width: 40%;
+        height: 60%;
+        font-family: 'Comforter', cursive;
+        font-size: 6vw;
+        text-align: center;
+        /* vertical-align: center; */
+        background-color: whitesmoke;
+        border-radius: 10px;
+        padding-top: 10px;
+        /* text-decoration: underline; */
+        /* appearance: textfield; */
+    }
+    
+    input[type=number]::-webkit-inner-spin-button, 
+    input[type=number]::-webkit-outer-spin-button { 
+        -webkit-appearance: none;
+    }
+    
+    #minus{
+        background-color: rgb(0, 119, 255);
+        font-size: 7vw;
+        /* font-family: 'Comforter', cursive; */
+    }
+    
+    #plus{
+        background-color: rgb(0, 128, 0);
+        font-size: 6vw;
+        /* font-family: 'Comforter', cursive; */
+    }
+    
+    #reset{
+        /* padding-top: 10px; */
+        height: 30%;
+        width: 35%;
+        background-color: red;
+        /* margin-top: -15px; */
+        color: rgba(47, 79, 79,0.7);
+        /* font-family: 'Comforter', cursive; */
+        font-family: 'Permanent Marker', cursive;
+        /* letter-spacing: 2px; */
+        /* text-shadow: 4px 4px 4px white; */
+        font-size: 3vw;
+    }
+    
+    
+    #minus:hover, #plus:hover, #reset:hover{
+        cursor: pointer;
+    }
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px){
+
+    .not-sup-res{
+        display: none;
+    }
+    
+    
+    .sezione{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        /* background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(136,104,218,1) 35%, rgba(0,255,124,1) 100%); */
+        background-image: url(../img/bernd-dittrich-U1xx7caDZgs-unsplash.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    
+    h1{
+        font-family: 'Comforter', cursive;
+        font-size: 6vw;
+        color: white;
+        text-shadow: 5px 5px 4px black;
+    }
+    
+    .box{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        row-gap: 10px;
+        width: 30%;
+        height: 50%;
+        /* background-color: rgba(255, 255, 255, .15); */
+        background-color: rgba(255, 255, 255, .1);
+        backdrop-filter: blur(5px);
+        box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
+        border-radius: 30px;
+    }
+    
+    #js-icon{
+        width: 21%;
+        height: 15%;
+        filter: drop-shadow(0px 0px 10px black);
+        margin-bottom: 18px;
+    }
+    
+    .counter-container{
+        display: flex;
+        /* flex-direction: column; */
+        justify-content: center;
+        align-items: center;
+        /* gap: 10px; */
+        width: 90%;
+        height: 40%;
+        /* background-color: yellowgreen; */
+        border-radius: 30px;
+    }
+    
+    .buttons-value-container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+        height: 90%;
+        gap: 10px;
+    }
+    
+    .counterbutton{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 25%;
+        height: 50%;
+        border-radius: 10px;
+        filter: drop-shadow(0px 5px 5px black);
+        top: 0px;
+        background-color: white;
+        user-select: none;
+        /* border: none; */
+        
+    }
+    
+    
+    p{
+        width: 40%;
+        height: 60%;
+        font-family: 'Comforter', cursive;
+        font-size: 3vw;
+        text-align: center;
+        /* vertical-align: center; */
+        background-color: whitesmoke;
+        border-radius: 10px;
+        padding-top: 10px;
+        /* text-decoration: underline; */
+        
+    }
+    
+    input[type=number]{
+        width: 40%;
+        height: 60%;
+        font-family: 'Comforter', cursive;
+        font-size: 3vw;
+        text-align: center;
+        /* vertical-align: center; */
+        background-color: whitesmoke;
+        border-radius: 10px;
+        padding-top: 10px;
+        /* text-decoration: underline; */
+        /* appearance: textfield; */
+    }
+    
+    input[type=number]::-webkit-inner-spin-button, 
+    input[type=number]::-webkit-outer-spin-button { 
+        -webkit-appearance: none;
+    }
+    
+    #minus{
+        background-color: rgb(0, 119, 255);
+        font-size: 4vw;
+        /* font-family: 'Comforter', cursive; */
+    }
+    
+    #plus{
+        background-color: rgb(0, 128, 0);
+        font-size: 3vw;
+        /* font-family: 'Comforter', cursive; */
+    }
+    
+    #reset{
+        /* padding-top: 10px; */
+        height: 30%;
+        width: 35%;
+        background-color: red;
+        /* margin-top: -15px; */
+        color: rgba(47, 79, 79,0.7);
+        /* font-family: 'Comforter', cursive; */
+        font-family: 'Permanent Marker', cursive;
+        /* letter-spacing: 2px; */
+        /* text-shadow: 4px 4px 4px white; */
+        font-size: 1.2vw;
+    }
+    
+    
+    #minus:hover, #plus:hover, #reset:hover{
+        cursor: pointer;
+    }
+    
+    
+}
+    
+    
