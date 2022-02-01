@@ -136,7 +136,7 @@ Il Counter dispone di 3 pulsanti:
 * "Reset"
 <img src="assets/img/Readme-Reset.png" alt="" width="" height=""></img>
 <br/>
-Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati incrementare/decrementare/resettare il valore del counter.
+Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati ("+", "-", "Reset") per modificare il valore del counter.
 <img src="assets/img/Readme-Value.png" alt="" width="" height=""></img>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
