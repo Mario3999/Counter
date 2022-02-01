@@ -84,7 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="assets/img/Readme-Home.png" alt="" width="100" height="100"></img>
+<img src="assets/img/Readme-Home.png" alt="" width="500" height="500"></img>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
