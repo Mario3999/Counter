@@ -44,7 +44,9 @@
 
 <img src="assets/img/Readme-Home.png" alt="" width="" height=""></img>
 
-Il Counter è stato sviluppato implementando in JavaScript sia i 3 pulsanti ("+", "-", "Reset"), sia la visualizzazione del valore. L'app è "Responsive" e quindi accessibile in versione mobile, tablet e desktop. 
+Il Counter è stato sviluppato implementando in JavaScript sia i 3 pulsanti ("+", "-", "Reset"), sia la visualizzazione del valore. L'app è "Responsive" e quindi accessibile in versione mobile, tablet e desktop.
+
+A questo link è possibile provare l'applicazione: [https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,6 +77,6 @@ Inoltre è possibile digitare la cifra desiderata all'interno del riquadro princ
 
 Mario Malitesta - mario.malitesta@gmail.com
 
-Project Link: [https://github.com/Mario3999/Counter](https://github.com/Mario3999/Counter)
+Project Link: [https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
