@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "counter-40b1d",
-    "public": "public",
+    "public": "y",
     "ignore": [
       "firebase.json",
       "**/.*",
