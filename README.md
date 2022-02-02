@@ -18,8 +18,6 @@
     <img src="assets/img/pitch-counter.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Counter</h3>
-
 </div>
 
 
@@ -46,7 +44,7 @@
 
 <img src="assets/img/Readme-Home.png" alt="" width="" height=""></img>
 
-Il Counter è stato sviluppato implementando i 3 pulsanti ("+", "-", "Reset"), così come la visualizzazione del valore, in JavaScript. L'app è "Responsive" e quindi accessibile in versione mobile, tablet e desktop. 
+Il Counter è stato sviluppato implementando in JavaScript sia i 3 pulsanti ("+", "-", "Reset"), sia la visualizzazione del valore. L'app è "Responsive" e quindi accessibile in versione mobile, tablet e desktop. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -65,7 +63,7 @@ Il Counter è stato sviluppato implementando i 3 pulsanti ("+", "-", "Reset"), c
 ## Usage
 
 Il Counter dispone di 3 pulsanti: "+" (incremento), "-" (decremento), "Reset".
-Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati ("+", "-", "Reset") per modificare il valore del counter.
+Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati per modificare il valore del counter.
 
 <img src="assets/img/Readme-Value.png" alt="" width="" height=""></img>
 
@@ -75,7 +73,7 @@ Inoltre è possibile digitare la cifra desiderata all'interno del riquadro princ
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Mario Malitesta - mario.malitesta@gmail.com
+Mario Malitesta - mario.malitesta@gmail.com
 
 Project Link: [https://github.com/Mario3999/Counter](https://github.com/Mario3999/Counter)
 
