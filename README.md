@@ -44,7 +44,7 @@
 
 <img src="assets/img/Readme-Home.png" alt="" width="" height=""></img>
 
-Il Counter è stato sviluppato implementando i 3 pulsanti ("+", "-", "Reset"), così come la visualizzazione del valore, in JavaScript. L'app è "Responsive" e quindi accessibile in versione mobile, tablet e desktop. 
+Il Counter è stato sviluppato implementando in JavaScript sia i 3 pulsanti ("+", "-", "Reset") sia la visualizzazione del valore. L'app è "Responsive" e quindi accessibile in versione mobile, tablet e desktop. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
