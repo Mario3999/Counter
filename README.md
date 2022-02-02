@@ -63,7 +63,7 @@ Il Counter è stato sviluppato implementando in JavaScript sia i 3 pulsanti ("+"
 ## Usage
 
 Il Counter dispone di 3 pulsanti: "+" (incremento), "-" (decremento), "Reset".
-Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati ("+", "-", "Reset") per modificare il valore del counter.
+Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati per modificare il valore del counter.
 
 <img src="assets/img/Readme-Value.png" alt="" width="" height=""></img>
 
