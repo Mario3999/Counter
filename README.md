@@ -26,6 +26,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#project-link">Project Link</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -38,26 +39,17 @@
 
 Il Counter è stato sviluppato implementando in JavaScript sia i 3 pulsanti ("+", "-", "Reset"), sia la visualizzazione del valore. L'app è "Responsive" e quindi accessibile in versione mobile, tablet e desktop.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * HTML
 * CSS
 * JavaScript
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Il Counter dispone di 3 pulsanti: "+" (incremento), "-" (decremento), "Reset".
 Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati per modificare il valore del counter.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Project Link
 
@@ -69,7 +61,5 @@ A questo link è possibile provare l'applicazione: <br/>
 ## Contact
 
 Mario Malitesta - mario.malitesta@gmail.com
-
-Project Link: [https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
