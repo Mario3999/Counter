@@ -1,13 +1,6 @@
 # Counter
 
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
 
@@ -37,6 +30,10 @@
   </ol>
 </details>
 
+## Project Link
+
+A questo link è possibile provare l'applicazione: [https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
+
 
 
 <!-- ABOUT THE PROJECT -->
@@ -45,8 +42,6 @@
 <img src="assets/img/Readme-Home.png" alt="" width="" height=""></img>
 
 Il Counter è stato sviluppato implementando in JavaScript sia i 3 pulsanti ("+", "-", "Reset"), sia la visualizzazione del valore. L'app è "Responsive" e quindi accessibile in versione mobile, tablet e desktop.
-
-A questo link è possibile provare l'applicazione: [https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
