@@ -32,7 +32,7 @@
 
 ## Project Link
 
-A questo link è possibile provare l'applicazione: 
+A questo link è possibile provare l'applicazione: <br/>
 [https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
 
 
