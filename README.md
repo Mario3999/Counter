@@ -53,8 +53,7 @@ Inoltre è possibile digitare la cifra desiderata all'interno del riquadro princ
 
 ## Project Link
 
-A questo link è possibile provare l'applicazione: <br/>
-[https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
+A questo link è possibile provare l'applicazione: [https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
 
 
 <!-- CONTACT -->
