@@ -32,7 +32,8 @@
 
 ## Project Link
 
-A questo link è possibile provare l'applicazione: [https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
+A questo link è possibile provare l'applicazione: 
+[https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
 
 
 
