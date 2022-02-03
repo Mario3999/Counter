@@ -30,12 +30,6 @@
   </ol>
 </details>
 
-## Project Link
-
-A questo link è possibile provare l'applicazione: <br/>
-[https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -64,6 +58,11 @@ Il Counter dispone di 3 pulsanti: "+" (incremento), "-" (decremento), "Reset".
 Inoltre è possibile digitare la cifra desiderata all'interno del riquadro principale e utilizzare poi i pulsanti sopra elencati per modificare il valore del counter.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Project Link
+
+A questo link è possibile provare l'applicazione: <br/>
+[https://counter-f90ae.web.app/](https://counter-f90ae.web.app/)
 
 
 <!-- CONTACT -->
