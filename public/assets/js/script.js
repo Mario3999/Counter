@@ -1,5 +1,28 @@
 document.addEventListener("DOMContentLoaded", function(){
 
+    let cB1 = document.createElement('div');
+    cB1.className = "counterbutton";
+    cB1.id ='minus';
+    cB1.innerHTML = '-';
+    
+    let inp = document.createElement('input');
+    inp.type = 'number';
+    
+    let cB2 = document.createElement('div');
+    cB2.className = "counterbutton";
+    cB2.id ='plus';
+    cB2.innerHTML='+';
+
+    let cB3 = document.createElement('div');
+    cB3.className = 'counterbutton';
+    cB3.id = 'reset';
+    cB3.innerHTML = 'Reset';
+    
+    document.getElementById('b-v-s').appendChild(cB1);
+    document.getElementById('b-v-s').appendChild(inp);
+    document.getElementById('b-v-s').appendChild(cB2);
+    document.getElementById('b-v-s').appendChild(cB3);
+
     let input = document.querySelector('input[type=number]');
 
     input.value = 0;
